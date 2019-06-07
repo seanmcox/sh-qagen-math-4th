@@ -7,6 +7,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="dist/install/felix.jar"/>
+	<classpathentry kind="lib" path="/Users/scox/Dev/github/sh-qagen-math-4th/lib/felix.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
